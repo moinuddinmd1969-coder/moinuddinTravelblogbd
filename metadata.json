@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Travel Blog & WordPress Theme",
+  "description": "A modern, responsive, SEO-friendly WordPress travel blog and magazine theme focused on Bangladesh tourism featuring Cox's Bazar, Sundarbans, Sajek Valley, Saint Martin's Island, and Sylhet tea gardens with interactive maps, Gutenberg/Elementor preview, itinerary planner, and travel guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
